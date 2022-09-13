@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="recursivePick.cpp">
+    <ClCompile Include="..\recursivePick\vector_test.cpp">
       <Filter>소스 파일</Filter>
-    </Text>
+    </ClCompile>
   </ItemGroup>
 </Project>

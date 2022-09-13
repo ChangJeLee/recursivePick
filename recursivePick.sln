@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "recursivePick", "recursivePick\recursivePick.vcxproj", "{BF67512B-2A11-4A09-9173-17BC440A3BC9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vector", "vector\vector.vcxproj", "{1F1F0E09-5065-4F26-9409-CFEE71ECC67C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{BF67512B-2A11-4A09-9173-17BC440A3BC9}.Release|x64.Build.0 = Release|x64
 		{BF67512B-2A11-4A09-9173-17BC440A3BC9}.Release|x86.ActiveCfg = Release|Win32
 		{BF67512B-2A11-4A09-9173-17BC440A3BC9}.Release|x86.Build.0 = Release|Win32
+		{1F1F0E09-5065-4F26-9409-CFEE71ECC67C}.Debug|x64.ActiveCfg = Debug|x64
+		{1F1F0E09-5065-4F26-9409-CFEE71ECC67C}.Debug|x64.Build.0 = Debug|x64
+		{1F1F0E09-5065-4F26-9409-CFEE71ECC67C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F1F0E09-5065-4F26-9409-CFEE71ECC67C}.Debug|x86.Build.0 = Debug|Win32
+		{1F1F0E09-5065-4F26-9409-CFEE71ECC67C}.Release|x64.ActiveCfg = Release|x64
+		{1F1F0E09-5065-4F26-9409-CFEE71ECC67C}.Release|x64.Build.0 = Release|x64
+		{1F1F0E09-5065-4F26-9409-CFEE71ECC67C}.Release|x86.ActiveCfg = Release|Win32
+		{1F1F0E09-5065-4F26-9409-CFEE71ECC67C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
